@@ -56,7 +56,7 @@ class FLAGES(object):
     log_dir = './log_11_25-generator'
     model_save_dir = './model_11_25-generator'
 
-    is_pretrained = True
+    is_pretrained = False
 
     iters = 100000
     model_save_iters = 500
